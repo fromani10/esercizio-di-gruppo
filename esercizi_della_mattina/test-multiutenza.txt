@@ -6,4 +6,3 @@ ogni persona può lavorare sul file
 senza bisohno di coordinarsi con gli altri
 il controlllo di versione gestisce gli eventuali conflitti
 Singh Tarnjot
-r
